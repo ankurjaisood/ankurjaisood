@@ -2,7 +2,7 @@
 
 ## Currently
 Sr. Software Engineer @ NVIDIA  
-Working on AV platform software (data recording, optimization, error detection & recovery, real-time and safety-critical systems).
+Working on autonomous vehicle (AV) platform software (data recording, optimization, error detection & recovery, real-time and safety-critical systems).
 
 ## Core Tech Stack
 - **Languages:** C++, Python, Rust (learning)  

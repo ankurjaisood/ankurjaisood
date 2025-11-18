@@ -16,6 +16,7 @@ Exploring and building:
 - AI safety and AI-generated content detection  
 
 ## Passionate About
+- Public transit and walkable cities  
 - Cars and driving on a great backroad  
 - Cooking experiments  
 - Games with strategy and storytelling (Catan, RimWorld, AoE II, etc.)  
